@@ -1,0 +1,14 @@
+
+section{
+    width: 100vw;
+    height: 100vh;
+    background-color: #2C3639;
+    order: -5;
+}
+#dog{
+    background-color: #000;
+    
+}
+#cat{
+    background-color: #fff;
+}

@@ -1,0 +1,18 @@
+.container{
+    background-image: url(wp3085436.jpg);
+    display: grid;
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+
+}
+
+h1{
+    color: wheat;
+    font-size: 4rem;
+}
+h2{
+    color: wheat;
+}
